@@ -11,7 +11,7 @@
     Designed for <strong>doodax.com</strong> by <strong>HSINI MOHAMED</strong>.
     <br />
     <br />
-    <a href="https://doodax.com/ai-summarizer/">
+    <a href="https://doodax.com/tools/ai-text-summarizer/index.html">
       <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-blue?style=for-the-badge&logo=googlechrome" alt="Live Demo" />
     </a>
     <br />
